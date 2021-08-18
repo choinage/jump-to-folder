@@ -5,4 +5,4 @@
 更新日志：<br>
 有了，来了，直接跳转！
 ***
-<font size=15>跳转工具</font>
+<font size=20>跳转工具</font>
